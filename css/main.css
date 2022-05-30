@@ -1,0 +1,43 @@
+body {
+    background-color: #85A5Da;
+}
+h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+ol {
+    background-color: #fff;
+    display: flex;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    
+}
+li {
+    width: 300px;
+    text-align: center;
+    list-style-type: none;
+    margin: 3rem;
+}
+.heading {
+    color: #6279D6;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    font-size: 30px;
+}
+.list-text {
+    color: #ACA9A7;
+    font-size: 20px;
+}
+.list-price {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: rgb(71, 109, 225);
+}
+.list-small {
+    font-size: 16px;
+}
+
